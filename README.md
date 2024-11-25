@@ -57,7 +57,7 @@ To create a new branch
         Installing Python and local setup
         Github access, creating project
 
-[class00 06th Nov 2024]
+[class01 06th Nov 2024]
 
     git commands
     markdown syntax
@@ -66,3 +66,14 @@ To create a new branch
     01. Introduction
         Imporatance of python
         Two versions of python (2.x & 3.x)
+
+[class02 11th Nov 2024]
+
+    PEP 8 Guidelines https://peps.python.org/pep-0008/
+        Shebang line
+        Indentation issue and Best practices
+        Script mode vs Interactive mode
+        Built-in functions
+        Print function
+        Jupyter Notebook usage
+        Ascii and Unicode characters
