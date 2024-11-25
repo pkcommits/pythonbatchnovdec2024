@@ -18,11 +18,32 @@ To see the latest local changes
 
     git status
 
-To see what exact changes have been made on a single file
+To check/modify content in existing file
 
     git diff
 
 To stage the changes
     
     git add <filename>
-    
+
+To commit changes
+
+    git commit -m "commit message"
+
+ To push the changes
+
+     git push origin < sourcebranchname>   
+
+### Daily git tasks
+
+To check the branch is clean
+     
+     git status
+
+To get the latest changes
+
+    git pull origin main
+
+To create a new branch
+     
+     git checkout -b <New baranch name>
