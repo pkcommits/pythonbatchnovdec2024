@@ -15,3 +15,14 @@ Algorithm:
 
 NOTE: handle case-sensitivity 
 """
+
+input_char = input("Enter the character:")
+vowels = 'aeiouAEIOU'
+
+if input_char:
+    if input_char in vowels:
+        print(f'The given character {input_char} is a vowel')
+    else:
+        print(f'The character is a constant')
+else:
+    print(f'Please enter a character')
